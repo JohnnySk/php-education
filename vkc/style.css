@@ -1,0 +1,91 @@
+body ul > li {
+    list-style: none;
+}
+span.b {
+    background: #ffffff;
+    color: #507296;
+    border-radius: 3px 3px 3px 3px;
+    padding: 0px 5px 0px 5px;
+}
+a:hover {
+    text-decoration: none;
+}
+div.content a {
+    color: #2b587a;
+}
+div.friends-view {
+    border-left: 1px solid #d9e0e7;
+    border-right: 1px solid #d9e0e7;
+}
+div.friends-profiles {
+    border-right: 1px solid #d9e0e7;
+}
+div.left-nav {
+    font-family: tahoma,arial,verdana,sans-serif,Lucida Sans;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+div.left-nav > ul{
+    padding-left: 0;
+    padding-top: 10px;
+}
+div.left-nav > ul > li {
+    padding-bottom: 5px;
+}
+div.left-nav ul {
+    width: 135px;
+}
+ul.config {
+    border-bottom: 1px solid #d9e0e7;
+}
+nav.content-filter {
+    padding: 10px 10px 0 10px;
+    border-bottom: 1px solid #537599;
+}
+div.friends-search {
+    border-bottom: 1px solid #d9e0e7;
+    background: #f7f7f7;
+}
+form.friend-search {
+    padding: 10px 10px 10px 10px;
+}
+div.friends-count {
+    border-bottom: 1px solid #d9e0e7;
+    padding: 10px 10px 5px 10px;
+}
+div.friends-filter {
+    background: #f7f7f7;
+}
+div.friends-profiles ul {
+    float: right;
+    padding-top: 15px;
+}
+div.friends-profiles ul > li {
+    padding-bottom: 5px;
+}
+div.user {
+    clear: both;
+}
+div.user img {
+    padding: 15px;
+}
+div.user p {
+    float: left;
+    padding-top: 15px;
+}
+div.user {
+    border-bottom: 1px solid #d9e0e7;
+}
+div.friends-filter select {
+    margin: 10px;
+}
+p.sex {
+    border-bottom: 1px solid #d9e0e7;
+}
+div.friends-filter ul {
+    padding-left: 0;
+    border-bottom: 1px solid #d9e0e7;
+}
+div.friends-filter ul > li {
+    padding-bottom: 10px;
+}
